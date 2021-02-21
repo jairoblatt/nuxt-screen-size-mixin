@@ -3,7 +3,7 @@
 A simple mixin for nuxtjs to get the dimensions of the screen :)
 
 <p align="center">
-  <img width="690" height="388" src="https://github.com/jairoblatt/nuxt-screen-size-mixin/blob/master/demo.gif">
+  <img src="https://github.com/jairoblatt/nuxt-screen-size-mixin/blob/master/demo.gif">
 </p>
 
 ## Installation
@@ -37,4 +37,4 @@ export default Vue.extend({
 | Name       | description                | type   |
 | ---------- | -------------------------- | ------ |
 | nuxtWidth  | Get current viewport width | number |
-| nuxtHeight | Get current viewport width | number |
+| nuxtHeight | Get current viewport height | number |
