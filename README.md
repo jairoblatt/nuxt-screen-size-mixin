@@ -2,7 +2,7 @@
 
 A simple mixin for nuxtjs to get the dimensions of the screen :)
 
-<p align="center">
+<p>
   <img src="https://github.com/jairoblatt/nuxt-screen-size-mixin/blob/master/demo.gif">
 </p>
 
