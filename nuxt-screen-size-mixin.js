@@ -11,7 +11,7 @@ var nuxtScreenSizeMixin = {
 
     window.addEventListener("resize", this.resize);
 
-    this.$once("hook:beforeDestroy", function() {
+    this.$once("hook:beforeDestroy", () => {
       window.removeEventListener("resize", this.resize);
     });
   },
